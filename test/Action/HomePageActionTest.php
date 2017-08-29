@@ -2,7 +2,7 @@
 
 namespace BeebeeleeTest\Action;
 
-use Beebeelee\Paymaya\Action\HomePageAction;
+use Beebeelee\PayMaya\Action\HomePageAction;
 use Interop\Http\ServerMiddleware\DelegateInterface;
 use PHPUnit\Framework\TestCase;
 use Prophecy\Argument;

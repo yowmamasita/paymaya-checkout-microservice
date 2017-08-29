@@ -3,7 +3,7 @@
  * @author Ben Sarmiento <me@bensarmiento.com>
  */
 
-use Beebeelee\Paymaya\Factory\EntityManagerFactory;
+use Beebeelee\PayMaya\Factory\EntityManagerFactory;
 use Doctrine\DBAL\Platforms\MySQL57Platform;
 use Doctrine\ORM\EntityManagerInterface;
 

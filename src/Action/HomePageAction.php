@@ -1,6 +1,6 @@
 <?php
 
-namespace Beebeelee\Paymaya\Action;
+namespace Beebeelee\PayMaya\Action;
 
 use Interop\Http\ServerMiddleware\DelegateInterface;
 use Interop\Http\ServerMiddleware\MiddlewareInterface as ServerMiddlewareInterface;

@@ -3,7 +3,7 @@
  * @author Ben Sarmiento <me@bensarmiento.com>
  */
 
-use Beebeelee\Paymaya\Factory\PayMayaSDKFactory;
+use Beebeelee\PayMaya\Factory\PayMayaSDKFactory;
 use PayMaya\PayMayaSDK;
 
 return [

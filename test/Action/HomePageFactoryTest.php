@@ -2,8 +2,8 @@
 
 namespace AppTest\Action;
 
-use Beebeelee\Paymaya\Action\HomePageAction;
-use Beebeelee\Paymaya\Action\HomePageFactory;
+use Beebeelee\PayMaya\Action\HomePageAction;
+use Beebeelee\PayMaya\Action\HomePageFactory;
 use Interop\Container\ContainerInterface;
 use PHPUnit\Framework\TestCase;
 use Zend\Expressive\Router\RouterInterface;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Beebeelee\Paymaya;
+namespace Beebeelee\PayMaya;
 
 /**
  * The configuration provider for the App module

@@ -1,6 +1,6 @@
 <?php
 
-namespace Beebeelee\Paymaya\Action;
+namespace Beebeelee\PayMaya\Action;
 
 use Interop\Container\ContainerInterface;
 use Zend\Expressive\Router\RouterInterface;

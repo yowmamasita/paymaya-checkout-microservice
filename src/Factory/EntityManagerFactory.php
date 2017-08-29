@@ -3,7 +3,7 @@
  * @author Ben Sarmiento <me@bensarmiento.com>
  */
 
-namespace Beebeelee\Paymaya\Factory;
+namespace Beebeelee\PayMaya\Factory;
 
 use Doctrine\ORM\EntityManager;
 use Doctrine\ORM\EntityManagerInterface;

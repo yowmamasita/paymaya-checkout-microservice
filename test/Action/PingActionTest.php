@@ -2,7 +2,7 @@
 
 namespace AppTest\Action;
 
-use Beebeelee\Paymaya\Action\PingAction;
+use Beebeelee\PayMaya\Action\PingAction;
 use Interop\Http\ServerMiddleware\DelegateInterface;
 use PHPUnit\Framework\TestCase;
 use Psr\Http\Message\ServerRequestInterface;

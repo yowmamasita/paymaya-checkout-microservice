@@ -1,8 +1,8 @@
 <?php
 
-namespace AppTest\Action;
+namespace BeebeeleeTest\Action;
 
-use App\Action\HomePageAction;
+use Beebeelee\Paymaya\Action\HomePageAction;
 use Interop\Http\ServerMiddleware\DelegateInterface;
 use PHPUnit\Framework\TestCase;
 use Prophecy\Argument;

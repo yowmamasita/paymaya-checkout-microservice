@@ -15,7 +15,7 @@ return [
     ],
     'doctrine' => [
         'params' => [
-            'url' => getenv('ARGO_DSN'),
+            'url' => getenv('BBL_PAYMAYA_DSN'),
             'charset' => 'utf8mb4',
             'driver' => 'pdo_mysql',
             'platform' => new MySQL57Platform(),
